@@ -1,5 +1,5 @@
 {
   "mf": "Custom Operator Details",
-  "api": "https://dme-api.dev-digital-enabler.eng.it/api/v3",
+  "api": "http://localhost:8083/api/v3",
   "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }
