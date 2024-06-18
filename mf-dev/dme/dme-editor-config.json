@@ -1,0 +1,5 @@
+{
+   "mf": "Mashup Editor",
+   "api": "http://localhost:8083/api/v3",
+   "apiDraw": "https://dme-api.dev-digital-enabler.eng.it/v3"
+}
