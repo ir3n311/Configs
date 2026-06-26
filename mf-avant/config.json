@@ -44,6 +44,12 @@
       "services": "/console/console-services-config.json",
       "consoleAppbar": "/console/console-appbar-config.json"
     },
+    "dd": {
+      "auth": "/dd/dd-auth-config.json",
+      "eventHandler": "/dd/dd-event-handler-config.json",
+      "sidebar": "/dd/dd-sidebar-config.json",
+      "dataDiscovery": "/dd/dd-data-discovery-config.json"
+    },
     "rm": {
       "ruleManager": "/rm/rm-common-config.json",
       "auth": "/rm/rm-auth-config.json",
